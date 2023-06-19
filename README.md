@@ -9,3 +9,9 @@ I am a software engineer focused on Apple platforms. I have been developing and 
 🚀  I'm currently working on My Apps
 🧠  I'm learning SwiftUI
 
+Skills
+
+Swift
+
+
+
